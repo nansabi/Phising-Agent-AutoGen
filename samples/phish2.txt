@@ -1,0 +1,6 @@
+From: account-team@example.test
+Subject: Synthetic link review
+
+# Synthetic local fixture; the hostname is under the reserved example domain.
+This non-deliverable training sample contains the word urgent and a lookalike
+hostname for detection testing: https://micros0ft.example/urgent

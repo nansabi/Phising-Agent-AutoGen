@@ -1,0 +1,13 @@
+# Keep local credentials and user-provided test inputs out of version control.
+.env
+inputs/
+cases/
+logs/
+reports/
+.cache/
+.venv/
+__pycache__/
+*.py[cod]
+web/node_modules/
+web/dist/
+web/.vite/

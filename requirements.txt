@@ -1,0 +1,8 @@
+# AutoGen 0.2 provides ConversableAgent, initiate_chat, and tool registration.
+pyautogen>=0.2.35,<0.3
+python-dotenv>=1.0,<2
+pydantic>=1.10,<3
+openai>=1.3,<2
+fastapi>=0.110,<1
+uvicorn>=0.29,<1
+python-multipart>=0.0.9,<1

@@ -1,0 +1,6 @@
+From: community@community.example
+Subject: Community newsletter
+
+# Synthetic local fixture; all hostnames use the reserved example domain.
+This harmless sample shares a monthly community update. Read the schedule at
+https://events.community.example/newsletter

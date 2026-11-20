@@ -1,0 +1,6 @@
+From: security-notice@example.test
+Subject: Synthetic account alert
+
+# Synthetic local fixture; the IP is reserved for documentation examples.
+This non-deliverable training sample contains the trigger word verify.
+Documentation-only URL: http://192.0.2.44/verify
